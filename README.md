@@ -1,5 +1,5 @@
 # Organic color palette
 
-Color palette inspired by muted natural colors.
+A muted color palette inspired by nature, editorial design and technology.
 
 ![Color palette](./palette/OrganicPalette.png) 
